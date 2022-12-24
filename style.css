@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
 }
-#foot{
-    background-color: aliceblue;
+
+
+#dev-pic{
+    height: 120px;
+    width: 120px;
 }
